@@ -1,0 +1,10 @@
+E:\文档数据\VS2012\OPC demoX64\OPC demoX64\bin\Release\OPC demoX64.exe.config
+E:\文档数据\VS2012\OPC demoX64\OPC demoX64\obj\Release\Interop.OPCAutomation.dll
+E:\文档数据\VS2012\OPC demoX64\OPC demoX64\obj\Release\OPC demoX64.csproj.ResolveComReference.cache
+E:\文档数据\VS2012\OPC demoX64\OPC demoX64\bin\Release\OPC demoX64.exe
+E:\文档数据\VS2012\OPC demoX64\OPC demoX64\bin\Release\OPC demoX64.pdb
+E:\文档数据\VS2012\OPC demoX64\OPC demoX64\obj\Release\OPC_demoX64.Form1.resources
+E:\文档数据\VS2012\OPC demoX64\OPC demoX64\obj\Release\OPC_demoX64.Properties.Resources.resources
+E:\文档数据\VS2012\OPC demoX64\OPC demoX64\obj\Release\OPC demoX64.csproj.GenerateResource.Cache
+E:\文档数据\VS2012\OPC demoX64\OPC demoX64\obj\Release\OPC demoX64.exe
+E:\文档数据\VS2012\OPC demoX64\OPC demoX64\obj\Release\OPC demoX64.pdb

@@ -1,0 +1,53 @@
+E:\文档数据\VS2012\OPC demoX64\OPC demoX64\bin\Debug\OPC demoX64.exe.config
+E:\文档数据\VS2012\OPC demoX64\OPC demoX64\bin\Debug\OPC demoX64.exe
+E:\文档数据\VS2012\OPC demoX64\OPC demoX64\bin\Debug\OPC demoX64.pdb
+E:\文档数据\VS2012\OPC demoX64\OPC demoX64\obj\Debug\OPC demoX64.csprojResolveAssemblyReference.cache
+E:\文档数据\VS2012\OPC demoX64\OPC demoX64\obj\Debug\OPC_demoX64.Form1.resources
+E:\文档数据\VS2012\OPC demoX64\OPC demoX64\obj\Debug\OPC_demoX64.Properties.Resources.resources
+E:\文档数据\VS2012\OPC demoX64\OPC demoX64\obj\Debug\OPC demoX64.csproj.GenerateResource.Cache
+E:\文档数据\VS2012\OPC demoX64\OPC demoX64\obj\Debug\OPC demoX64.exe
+E:\文档数据\VS2012\OPC demoX64\OPC demoX64\obj\Debug\OPC demoX64.pdb
+E:\文档数据\VS2012\OPC demoX64\OPC demoX64\obj\Debug\Interop.OPCAutomation.dll
+E:\文档数据\VS2012\OPC demoX64\OPC demoX64\obj\Debug\OPC demoX64.csproj.ResolveComReference.cache
+E:\文档数据\VS2012\OPC demoX64  OK（有一点 Bug）\OPC demoX64\bin\Debug\OPC demoX64.exe.config
+E:\文档数据\VS2012\OPC demoX64  OK（有一点 Bug）\OPC demoX64\bin\Debug\OPC demoX64.exe
+E:\文档数据\VS2012\OPC demoX64  OK（有一点 Bug）\OPC demoX64\bin\Debug\OPC demoX64.pdb
+E:\文档数据\VS2012\OPC demoX64  OK（有一点 Bug）\OPC demoX64\obj\Debug\Interop.OPCAutomation.dll
+E:\文档数据\VS2012\OPC demoX64  OK（有一点 Bug）\OPC demoX64\obj\Debug\OPC demoX64.csproj.ResolveComReference.cache
+E:\文档数据\VS2012\OPC demoX64  OK（有一点 Bug）\OPC demoX64\obj\Debug\OPC_demoX64.Form1.resources
+E:\文档数据\VS2012\OPC demoX64  OK（有一点 Bug）\OPC demoX64\obj\Debug\OPC_demoX64.Properties.Resources.resources
+E:\文档数据\VS2012\OPC demoX64  OK（有一点 Bug）\OPC demoX64\obj\Debug\OPC demoX64.csproj.GenerateResource.Cache
+E:\文档数据\VS2012\OPC demoX64  OK（有一点 Bug）\OPC demoX64\obj\Debug\OPC demoX64.exe
+E:\文档数据\VS2012\OPC demoX64  OK（有一点 Bug）\OPC demoX64\obj\Debug\OPC demoX64.pdb
+E:\文档数据\VS2012\OPC demoX64  OK\OPC demoX64\bin\Debug\OPC demoX64.exe.config
+E:\文档数据\VS2012\OPC demoX64  OK\OPC demoX64\obj\Debug\Interop.OPCAutomation.dll
+E:\文档数据\VS2012\OPC demoX64  OK\OPC demoX64\obj\Debug\OPC demoX64.csproj.ResolveComReference.cache
+E:\文档数据\VS2012\OPC demoX64  OK\OPC demoX64\obj\Debug\OPC demoX64.exe
+E:\文档数据\VS2012\OPC demoX64  OK\OPC demoX64\obj\Debug\OPC demoX64.pdb
+G:\SWData\VS2012\OPC demoX64  OK\OPC demoX64\bin\Debug\OPC demoX64.exe.config
+G:\SWData\VS2012\OPC demoX64  OK\OPC demoX64\obj\Debug\Interop.OPCAutomation.dll
+G:\SWData\VS2012\OPC demoX64  OK\OPC demoX64\obj\Debug\OPC demoX64.csproj.ResolveComReference.cache
+G:\SWData\VS2012\OPC demoX64  OK\OPC demoX64\obj\Debug\OPC demoX64.exe
+G:\SWData\VS2012\OPC demoX64  OK\OPC demoX64\obj\Debug\OPC demoX64.pdb
+G:\SWData\VS2012\OPC demoX64  OK\OPC demoX64\bin\Debug\OPC demoX64.exe
+G:\SWData\VS2012\OPC demoX64  OK\OPC demoX64\bin\Debug\OPC demoX64.pdb
+G:\SWData\VS2012\OPC demoX64  OK\OPC demoX64\obj\Debug\OPC demoX64.csprojResolveAssemblyReference.cache
+G:\SWData\VS2012\OPC demoX64  OK\OPC demoX64\obj\Debug\OPC_demoX64.Form1.resources
+G:\SWData\VS2012\OPC demoX64  OK\OPC demoX64\obj\Debug\OPC_demoX64.Properties.Resources.resources
+G:\SWData\VS2012\OPC demoX64  OK\OPC demoX64\obj\Debug\OPC demoX64.csproj.GenerateResource.Cache
+G:\SWData\VS2012\OPC demoX64\OPC demoX64\bin\Debug\OPC demoX64.exe.config
+G:\SWData\VS2012\OPC demoX64\OPC demoX64\obj\Debug\Interop.OPCAutomation.dll
+G:\SWData\VS2012\OPC demoX64\OPC demoX64\obj\Debug\OPC demoX64.csproj.ResolveComReference.cache
+G:\SWData\VS2012\OPC demoX64\OPC demoX64\obj\Debug\OPC demoX64.exe
+G:\SWData\VS2012\OPC demoX64\OPC demoX64\obj\Debug\OPC demoX64.pdb
+G:\SWData\VS2012\OPC demoX64\OPC demoX64\bin\Debug\OPC demoX64.exe
+G:\SWData\VS2012\OPC demoX64\OPC demoX64\bin\Debug\OPC demoX64.pdb
+G:\SWData\VS2012\OPC demoX64\OPC demoX64\obj\Debug\OPC demoX64.csprojResolveAssemblyReference.cache
+G:\SWData\VS2012\OPC demoX64\OPC demoX64\obj\Debug\OPC_demoX64.Form1.resources
+G:\SWData\VS2012\OPC demoX64\OPC demoX64\obj\Debug\OPC_demoX64.Properties.Resources.resources
+G:\SWData\VS2012\OPC demoX64\OPC demoX64\obj\Debug\OPC demoX64.csproj.GenerateResource.Cache
+G:\SWData\VS2012\OPC 客户端\OPC demo\OPC demoX64\bin\Debug\OPC demoX64.exe.config
+G:\SWData\VS2012\OPC 客户端\OPC demo\OPC demoX64\obj\Debug\Interop.OPCAutomation.dll
+G:\SWData\VS2012\OPC 客户端\OPC demo\OPC demoX64\obj\Debug\OPC demoX64.csproj.ResolveComReference.cache
+G:\SWData\VS2012\OPC 客户端\OPC demo\OPC demoX64\obj\Debug\OPC demoX64.exe
+G:\SWData\VS2012\OPC 客户端\OPC demo\OPC demoX64\obj\Debug\OPC demoX64.pdb

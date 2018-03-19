@@ -1,0 +1,48 @@
+G:\SWData\VS2012\OPC 客户端\OPC demo\OPC demoX64\bin\Debug\OPC demo.exe.config
+G:\SWData\VS2012\OPC 客户端\OPC demo\OPC demoX64\obj\Debug\Interop.OPCAutomation.dll
+G:\SWData\VS2012\OPC 客户端\OPC demo\OPC demoX64\obj\Debug\OPC demo.csproj.ResolveComReference.cache
+G:\SWData\VS2012\OPC 客户端\OPC demo\OPC demoX64\bin\Debug\OPC demo.exe
+G:\SWData\VS2012\OPC 客户端\OPC demo\OPC demoX64\bin\Debug\OPC demo.pdb
+G:\SWData\VS2012\OPC 客户端\OPC demo\OPC demoX64\obj\Debug\OPC_demoX64.Form1.resources
+G:\SWData\VS2012\OPC 客户端\OPC demo\OPC demoX64\obj\Debug\OPC_demo.Properties.Resources.resources
+G:\SWData\VS2012\OPC 客户端\OPC demo\OPC demoX64\obj\Debug\OPC demo.csproj.GenerateResource.Cache
+G:\SWData\VS2012\OPC 客户端\OPC demo\OPC demoX64\obj\Debug\OPC demo.exe
+G:\SWData\VS2012\OPC 客户端\OPC demo\OPC demoX64\obj\Debug\OPC demo.pdb
+G:\SWData\VS2012\OPC Client\OPC demo\OPC demo\bin\Debug\OPC demo.exe.config
+G:\SWData\VS2012\OPC Client\OPC demo\OPC demo\obj\Debug\Interop.OPCAutomation.dll
+G:\SWData\VS2012\OPC Client\OPC demo\OPC demo\obj\Debug\OPC demo.csproj.ResolveComReference.cache
+G:\SWData\VS2012\OPC Client\OPC demo\OPC demo\obj\Debug\OPC demo.exe
+G:\SWData\VS2012\OPC Client\OPC demo\OPC demo\obj\Debug\OPC demo.pdb
+G:\SWData\VS2012\OPC Client\OPC demo\bin\Debug\OPC demo.exe.config
+G:\SWData\VS2012\OPC Client\OPC demo\obj\Debug\Interop.OPCAutomation.dll
+G:\SWData\VS2012\OPC Client\OPC demo\obj\Debug\OPC demo.csproj.ResolveComReference.cache
+G:\SWData\VS2012\OPC Client\OPC demo\obj\Debug\OPC demo.exe
+G:\SWData\VS2012\OPC Client\OPC demo\obj\Debug\OPC demo.pdb
+G:\SWData\VS2012\OPC Client\OPC demo\bin\Debug\OPC demo.exe
+G:\SWData\VS2012\OPC Client\OPC demo\bin\Debug\OPC demo.pdb
+G:\SWData\VS2012\OPC Client\OPC demo\obj\Debug\OPC demo.csprojResolveAssemblyReference.cache
+G:\SWData\VS2012\OPC Client\OPC demo\obj\Debug\OPCClient.Form1.resources
+G:\SWData\VS2012\OPC Client\OPC demo\obj\Debug\OPC_demo.Properties.Resources.resources
+G:\SWData\VS2012\OPC Client\OPC demo\obj\Debug\OPC demo.csproj.GenerateResource.Cache
+G:\SWData\VS2012 窗体设计\OPC Client\OPC demo\bin\Debug\OPC demo.exe.config
+G:\SWData\VS2012 窗体设计\OPC Client\OPC demo\obj\Debug\Interop.OPCAutomation.dll
+G:\SWData\VS2012 窗体设计\OPC Client\OPC demo\obj\Debug\OPC demo.csproj.ResolveComReference.cache
+G:\SWData\VS2012 窗体设计\OPC Client\OPC demo\obj\Debug\OPC demo.exe
+G:\SWData\VS2012 窗体设计\OPC Client\OPC demo\obj\Debug\OPC demo.pdb
+G:\SWData\VS2012 窗体设计\OPC Client\OPC demo\bin\Debug\OPC demo.exe
+G:\SWData\VS2012 窗体设计\OPC Client\OPC demo\bin\Debug\OPC demo.pdb
+G:\SWData\VS2012 窗体设计\OPC Client\OPC demo\obj\Debug\OPC demo.csprojResolveAssemblyReference.cache
+G:\SWData\VS2012 窗体设计\OPC Client\OPC demo\obj\Debug\OPCClient.Form1.resources
+G:\SWData\VS2012 窗体设计\OPC Client\OPC demo\obj\Debug\OPC_demo.Properties.Resources.resources
+G:\SWData\VS2012 窗体设计\OPC Client\OPC demo\obj\Debug\OPC demo.csproj.GenerateResource.Cache
+D:\SWData\C#\OPC Client\OPC demo\bin\Debug\OPC demo.exe.config
+D:\SWData\C#\OPC Client\OPC demo\obj\Debug\Interop.OPCAutomation.dll
+D:\SWData\C#\OPC Client\OPC demo\obj\Debug\OPC demo.csproj.ResolveComReference.cache
+D:\SWData\C#\OPC Client\OPC demo\obj\Debug\OPC demo.exe
+D:\SWData\C#\OPC Client\OPC demo\obj\Debug\OPC demo.pdb
+D:\SWData\C#\OPC Client\OPC demo\bin\Debug\OPC demo.exe
+D:\SWData\C#\OPC Client\OPC demo\bin\Debug\OPC demo.pdb
+D:\SWData\C#\OPC Client\OPC demo\obj\Debug\OPC demo.csprojResolveAssemblyReference.cache
+D:\SWData\C#\OPC Client\OPC demo\obj\Debug\OPCClient.Form1.resources
+D:\SWData\C#\OPC Client\OPC demo\obj\Debug\OPC_demo.Properties.Resources.resources
+D:\SWData\C#\OPC Client\OPC demo\obj\Debug\OPC demo.csproj.GenerateResource.Cache
